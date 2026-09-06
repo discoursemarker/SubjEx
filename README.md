@@ -123,5 +123,4 @@ handling requirements that apply to your project.
 
 ## License
 
-No open-source license has been selected yet. Until a license is added, the
-default copyright restrictions apply.
+SubjEx is available under the MIT License. See [LICENSE](LICENSE).
