@@ -9,6 +9,16 @@ The current version is research software. Its rules were designed for corpus
 analysis and may not cover every grammatical construction or non-standard
 learner sentence correctly.
 
+## Related publication
+
+### APA reference
+
+Uchida, S., & Usukura, M. (2026). Developmental trends in subject length and
+complexity in Japanese learners’ English writing. *Assessing Writing, 70*,
+Article 101124. https://doi.org/10.1016/j.asw.2026.101124
+
+[View the article on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1075293526001121).
+
 ## Output
 
 SubjEx returns one tab-separated row per detected subject, with no header:
